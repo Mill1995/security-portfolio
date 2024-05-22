@@ -11,7 +11,6 @@ I make every effort to find as many vulnerabilities in the code as possible with
   - [Repository Structure](#repository-structure)
   - [How to Use This Repository](#how-to-use-this-repository)
   - [List of Audits](#list-of-audits)
-  - [Contact](#contact)
 
 ## Introduction
 
@@ -21,10 +20,12 @@ Smart contracts are the backbone of decentralized applications (dApps) and block
 
 The repository is organized as follows:
 
+```
 security-portfolio/
 │
 ├── audits/
 ├── README.md
+```
 
 - **audits/**: This directory contains all the audit reports in PDF format. Each report is named according to the project it pertains to.
 
@@ -38,16 +39,9 @@ security-portfolio/
 
 Here are some of the audit reports available in this repository:
 
-- [First Flight Mondrian Wallet Findings Report](audits/First_Flight_Mondrian_Wallet_Findings_Report.pdf)
+- [First Flight Mondrian Wallet Findings Report](audits/2024-05-First-Flight-Mondrian-Wallet.pdf)
 - [TSwap Findings Report](audits/05-22024_TSwap.pdf)
 - [Password Store Report](audits/2024-04-23-passwordstore-audit.pdf)
 - [Puppy Raffle Findings Report](audits/2024-05-14-puppy-raffle.pdf)
-
-## Contact
-
-For any inquiries or further information, feel free to reach out:
-
-- **Name**: Yannick
-- **GitHub**: [Mill1995](https://github.com/Mill1995)
 
 Thank you for visiting my Security Portfolio. Your feedback and suggestions are always welcome!
