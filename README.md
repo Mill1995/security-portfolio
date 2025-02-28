@@ -10,7 +10,10 @@ I make every effort to find as many vulnerabilities in the code as possible with
   - [Introduction](#introduction)
   - [Repository Structure](#repository-structure)
   - [How to Use This Repository](#how-to-use-this-repository)
+  - [Profiles](#profiles)
   - [List of Audits](#list-of-audits)
+    - [Competitive Audits](#competitive-audits)
+    - [First Flight (Training) Audits](#first-flight-training-audits)
 
 ## Introduction
 
@@ -35,9 +38,23 @@ security-portfolio/
 2. **Read Reports**: Click on any PDF file to open and read the detailed audit report for that specific project.
 3. **Download Reports**: You can download the audit reports for offline reading or sharing with others.
 
+## Profiles
+
+- [Sherlock](https://audits.sherlock.xyz/watson/Mill)
+- [Codehawks](https://profiles.cyfrin.io/u/mill1995)
+
 ## List of Audits
 
 Here are some of the audit reports available in this repository:
+
+### Competitive Audits
+
+- [Plaza Finance](https://audits.sherlock.xyz/contests/682)
+- [Ignite Benqi](https://codehawks.cyfrin.io/c/2025-01-benqi)
+- [Aave DIVA Wrapper](https://codehawks.cyfrin.io/c/2025-01-diva)
+- [Core Contracts - Regnum Aurum Acquisition Corp](https://codehawks.cyfrin.io/c/2025-02-raac)
+
+### First Flight (Training) Audits
 
 - [First Flight Mondrian Wallet Findings Report](audits/2024-05-First-Flight-Mondrian-Wallet.pdf)
 - [TSwap Findings Report](audits/05-22024_TSwap.pdf)
